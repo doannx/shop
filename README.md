@@ -12,3 +12,6 @@ To setup this project, run the following command at the root folder (i.e.:<b>sho
 <br/><br/>
 To run this project, execute the following command:</br>
 <b>mvn spring-boot:run</b>
+<br/><br/>
+Or you can combine as following:</br>
+<b>mvn clean install spring-boot:run</b>
